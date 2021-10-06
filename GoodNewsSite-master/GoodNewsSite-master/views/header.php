@@ -20,5 +20,5 @@
 				:: 1ère année du baccalauréat en informatique
 			</p>
 
-            <p>Hello world</p>
+
 		</div><!-- entete -->
